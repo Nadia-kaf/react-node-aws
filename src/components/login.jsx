@@ -5,7 +5,7 @@ export default function Login(){
     return(
         <>
         <NavBar/>
-        <div>Login pages</div>
+        <div>Login page</div>
         </>
     );
 }
